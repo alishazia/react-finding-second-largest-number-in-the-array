@@ -30,7 +30,7 @@ function secondLargestNumber(arr_size, arr) {
     }
     else
       `The second largest number is: ${SECOND_MAX}`;
-  // // Then print the values
+  // // Then print the values 
   console.log("this is largest number",MAX);
   console.log("this is second largest",SECOND_MAX);
 }
